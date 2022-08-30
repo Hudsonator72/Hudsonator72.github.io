@@ -6,7 +6,7 @@
     white-space: nowrap;
 }
 
-#MCS, #GAMES {
+.header {
     height: 100%;
     margin-right: 25px;
     display: inline-block;
@@ -24,4 +24,27 @@ body {
 
 h1, h4 {
     margin: 0px;
+}
+
+.content {
+    margin: 30px;
+    background-color: dodgerblue;
+    padding: 10px;
+    white-space: nowrap;
+}
+
+.content2 {
+    margin: 15px;
+    background-color: royalblue;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    filter: brightness(115%)
 }

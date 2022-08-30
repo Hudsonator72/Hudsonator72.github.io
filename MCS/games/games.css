@@ -1,0 +1,15 @@
+@import url(../home.css);
+
+#games {
+    margin: 30px;
+    background-color: dodgerblue;
+    padding: 10px;
+    white-space: nowrap;
+}
+
+.game {
+    margin: 15px;
+    background-color: royalblue;
+    padding: 10px;
+    text-align: center;
+}
